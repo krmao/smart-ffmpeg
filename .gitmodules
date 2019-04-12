@@ -1,0 +1,3 @@
+[submodule "build-script/avbuild"]
+	path = build-script/avbuild
+	url = https://github.com/wang-bin/avbuild.git

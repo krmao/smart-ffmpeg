@@ -6,10 +6,13 @@ for learn ffmpeg
 ```
 cd build-script/avbuild
 export FFSRC=../../build-source/ffmpeg-4.1.3
-./avbuild.sh and "armv7 x86_64"
-./avbuild.sh ios "x86_64"
-./avbuild.sh ios "arm64 x86_64"
 ```
+* build for android
+    >./avbuild.sh and "armv7 x86_64"
+* build for ios
+    >./avbuild.sh ios "arm64 x86_64"
+* build for macos
+    >./avbuild.sh macos10.14.3
 
 # problems
 

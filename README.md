@@ -11,8 +11,8 @@ export FFSRC=../../build-source/ffmpeg-4.1.3
     >./avbuild.sh and "armv7 x86_64"
 * build for ios
     >./avbuild.sh ios "arm64 x86_64"
-* build for macos
-    >./avbuild.sh macos10.14.3
+* build for macos 
+    >./avbuild.sh macos10.14.4 "x86_64"   #macbookpro platform query by command in terminal $uname -a
 
 # problems
 
